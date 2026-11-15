@@ -10,7 +10,7 @@ I'm a Computer Science student and developer from Lebanon interested in building
 - 📊 Interested in data preprocessing, visualization, classification, and regression
 - 🎨 Combining technical development with UX/UI and visual design
 - 🌍 Based in Ghazir, Lebanon
-- 📫 Contact: [elkimamanda@gmail.com](mailto:elkimamanda@gmail.com)
+- 📫 Contact: [elkikamanda@gmail.com](mailto:elkikamanda@gmail.com)
 
 ## Technical Skills
 
